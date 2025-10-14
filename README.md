@@ -35,4 +35,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HezekiahAO&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HezekiahAO&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=HezekiahAO&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HezekiahAO&theme=tokyonight)
