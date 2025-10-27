@@ -1,5 +1,4 @@
 # Hi👋, I'm Hezekiah Ajayi-Omoleye
-
 📊 I love exploring **project** that drive real world impact** either in AI, Backend Development, or Hardware Projects.  
 ⚙️ Currently working on **Backend Applications**, **3D Animations** **Hardware Projects**.
 🤝 Open to collaborations in **Backend Developments**, **2D/3D Animations**, **AI Related Projects** and **Algorithm Design**.  
