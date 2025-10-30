@@ -35,5 +35,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HezekiahAO&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HezekiahAO&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats-henrythegrea8.vercel.app?user=henrythegrea8&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HezekiahAO&theme=tokyo-night)
+
 
