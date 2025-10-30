@@ -33,6 +33,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HezekiahAO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HezekiahAO&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HezekiahAO&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HezekiahAO&theme=tokyonight&cache_seconds=86400)
+![GitHub Streak](https://github-readme-streak-stats-henrythegrea8.vercel.app?user=henrythegrea8&theme=tokyonight&hide_border=true&cache_seconds=86400)
+
