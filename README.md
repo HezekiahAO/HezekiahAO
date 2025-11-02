@@ -36,6 +36,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HezekiahAO&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HezekiahAO&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats-hezekiahao.vercel.app?user=HezekiahAO&theme=tokyonight&hide_border=true)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HezekiahAO&theme=tokyo-night)
+![trophy](https://github-profile-trophy.vercel.app/?username=HezekiahAO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
 
 
