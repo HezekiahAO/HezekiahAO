@@ -33,9 +33,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HezekiahAO&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HezekiahAO&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=10&ring_color=ffffff)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HezekiahAO&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff)
-![GitHub Streak](https://streak-stats.demolab.com?user=HezekiahAO&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff)
-![trophy](https://github-profile-trophy.vercel.app/?username=HezekiahAO&no-frame=true&no-bg=true&theme=oldie)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=HezekiahAO&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff)
+![trophy](https://github-profile-trophy.vercel.app/?username=HezekiahAO&no-frame=true&no-bg=true&theme=onestar)
 
