@@ -35,7 +35,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HezekiahAO&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HezekiahAO&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=HezekiahAO&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=HezekiahAO&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff)
 ![trophy](https://github-profile-trophy.vercel.app/?username=HezekiahAO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
 
 
