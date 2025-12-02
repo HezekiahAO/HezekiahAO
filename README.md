@@ -32,8 +32,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://your-domain.com/api?username=HezekiahAO&show_icons=true&...)
-
+![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=HezekiahAO&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=10&ring_color=ffffff)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HezekiahAO&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff)
 ![GitHub Streak](https://streak-stats.vercel.app?user=HezekiahAO&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff)
 ![trophy](https://github-profile-trophy.vercel.app/?username=HezekiahAO&no-frame=true&no-bg=true&theme=onestar)
