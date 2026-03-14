@@ -2,7 +2,7 @@
 📊 I love exploring **project** that drive real world impact** either in AI, Backend Development, or Hardware Projects.  
 ⚙️ Currently working on **Backend Applications**, **3D Animations** **Hardware Projects**.
 🤝 Open to collaborations in **Backend Developments**, **2D/3D Animations**, **AI Related Projects** and Algorithm Design.
-🎬 I also enjoy **Baskeball**, **Watching Movies or Animes**, Storytelling, and Digital creativity**.  
+🎬 I also enjoy **Playing Baskeball**, **Watching Movies, **Telling Stories**, and Digital creativity**.  
 📫 Reach me at [Email: hezekiahomoleye@gmail.com or on [LinkedIn](https://linkedin.com/in/hezekiah-ajayi-omoleye-4997b6331/).  
 ✨ Fun fact: ........................
 
