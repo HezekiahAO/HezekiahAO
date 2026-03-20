@@ -9,8 +9,6 @@
 
 📫 Reach me at [Email: hezekiahomoleye@gmail.com or on [LinkedIn](https://linkedin.com/in/hezekiah-ajayi-omoleye-4997b6331/).  
 
-✨ Fun fact: ........................
-
 ---
 
 ## 🌐 Connect With Me
