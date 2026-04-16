@@ -1,9 +1,9 @@
 # HELLO👋, I'm Hezekiah
-📊 I love exploring **project** that drive real world impact** either in AI, Backend Development, or Hardware Projects.  
+📊 I love exploring **project** that drive real world impact** either in AI, Backend Engineering/Development, DeepLearning or Hardware related Projects.  
 
-⚙️ Currently working on **Backend Applications**, **3D Animations** **Hardware Projects**.
+⚙️ Currently working on **Backend Applications**, **Hardware Projects**,  **3D Animations using Blender**
 
-🤝 Open to collaborations in **Backend Developments**, **2D/3D Animations**, **AI Related Projects** and Algorithm Design.
+🤝 I am Open to collaborations in **Backend Developments**, **AI Related Projects**, **Algorithm Design** and **2D/3D Animations**.
 
 🎬 I also enjoy **Playing Baskeball**, **Watching Movies, **Telling Stories**, and Digital creativity**.  
 
