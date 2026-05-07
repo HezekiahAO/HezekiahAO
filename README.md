@@ -5,7 +5,7 @@
 
 🤝 I am Open to collaborations in **Backend Developments**, **AI Related Projects**, **Algorithm Design** and **2D/3D Animations**.
 
-🎬 I also enjoy **Playing Baskeball**, **Watching Movies, **Telling Stories**, and Digital creativity**.  
+🎬 I also enjoy **Playing Baskeball**, **Watching Movies, **Telling Stories**,  Digital creativity**, and most importantly,  **Doing what excites**.
 
 📫 Reach me at [Email: hezekiahomoleye@gmail.com or on [LinkedIn](https://linkedin.com/in/hezekiah-ajayi-omoleye-4997b6331/).  
 ---
