@@ -3,7 +3,7 @@
 
 ⚙️ Currently working on **Backend Applications**, **Hardware Projects**, and **AI related projects**
 
-🤝 I am Open to collaborations in **Backend Developments**, **AI Related Projects**, **Algorithm Design** and **2D/3D Animations**.
+🤝 I am Open to collaborations in **Backend Developments\Engineering**, **AI Related Projects**, **Algorithm Design** and **2D/3D Animations**.
 
 🎬 I also enjoy **playing Baskeball**, **watching Movies**, **telling Stories through digital creativity**, and most importantly,  **Doing what Excites   :)**.
 
