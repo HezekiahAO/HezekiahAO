@@ -7,8 +7,6 @@
 
 🎬 I also enjoy **playing Baskeball**, **watching Movies**, **telling Stories through digital creativity**, and most importantly,  **Doing what Excites :)**
 
-
-📫 Reach me at Email: hezekiahomoleye@gmail.com or on [LinkedIn](https://linkedin.com/in/hezekiah-ajayi-omoleye-4997b6331/).  
 ---
 ## 🌐 Connect With Me
 
