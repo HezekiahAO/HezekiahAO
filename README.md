@@ -5,7 +5,7 @@
 
 🤝 I am Open to collaborations in **Backend Developments\Engineering**, **AI Related Projects**, **Algorithm Design** and **2D/3D Animations**.
 
-🎬 I also enjoy **playing Baskeball**, **watching Movies**, **telling Stories through digital creativity**, and most importantly,  **Doing what Excites  :)**
+🎬 I also enjoy **playing Baskeball**, **watching Movies**, **telling Stories through digital creativity**, and most importantly,  **Doing what Excites :)**
 
 ---
 
