@@ -27,10 +27,8 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-
 ---
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=HezekiahAO&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_radius=10&ring_color=ffffff)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HezekiahAO&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff)
 ![GitHub Streak](https://streak-stats.demolab.com?user=HezekiahAO&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
-
