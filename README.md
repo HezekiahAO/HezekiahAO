@@ -8,7 +8,6 @@ I am Open to collaborations in **Backend Developments\Engineering**, **AI Relate
 I also enjoy **playing Baskeball**, **watching Movies**, **telling Stories through digital creativity**.
 
 ---
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hezekiah-ajayi-omoleye-4997b6331/)
